@@ -25,27 +25,27 @@
 
   In this document, we use "you" to refer to researchers and other users of the Websites and OSF.  We also use the following defined terms:
 
-  a.  Project.  A "Project" is an individual or collaborative enterprise that also may have embedded within it subproject(s) or "Project components" or "component(s)" of the Project.
+    a.  Project.  A "Project" is an individual or collaborative enterprise that also may have embedded within it subproject(s) or "Project components" or "component(s)" of the Project.
 
-  b.  Content.  As used in these Terms of Use, "content" means, but is not limited to, any research, data, text, images, software and software code, data sets, information or other materials.
+    b.  Content.  As used in these Terms of Use, "content" means, but is not limited to, any research, data, text, images, software and software code, data sets, information or other materials.
 
-  c.  Users.  All Users must accept the COS Terms of Use and Privacy Policy.
+    c.  Users.  All Users must accept the COS Terms of Use and Privacy Policy.
+    
+        1. Administrator.  An administrator on a Project or a component is an individual who has full rights to control all aspects of a Project.  An Administrator may create a Project or components of a Project, create and change contributor permissions, identify the legal terms that govern the ownership of the intellectual property in Content deposited into a Project or a Project component or identify the license restrictions governing the use of the intellectual property incorporated into the Project or a Project component, control and modify access and privacy settings for the Project and its components, modify license terms for the use of Content, invite other users to contribute to a Project or a component of a project, authorize add-ons, namely, software designed to increase the capability of OSF, remove Projects or Project Components from the Websites and Services, register (i.e. freeze and uniquely identify) Projects or Project Components.  Administrators must have the authority to bind the individual Administrator's business, organization or institution to the COS's Terms of Use and Privacy Policy.
 
-    1. Administrator.  An administrator on a Project or a component is an individual who has full rights to control all aspects of a Project.  An Administrator may create a Project or components of a Project, create and change contributor permissions, identify the legal terms that govern the ownership of the intellectual property in Content deposited into a Project or a Project component or identify the license restrictions governing the use of the intellectual property incorporated into the Project or a Project component, control and modify access and privacy settings for the Project and its components, modify license terms for the use of Content, invite other users to contribute to a Project or a component of a project, authorize add-ons, namely, software designed to increase the capability of OSF, remove Projects or Project Components from the Websites and Services, register (i.e. freeze and uniquely identify) Projects or Project Components.  Administrators must have the authority to bind the individual Administrator's business, organization or institution to the COS's Terms of Use and Privacy Policy.
+        2. Proxy.  A Proxy is a person to whom the Administrator has granted the authority to manage a Project or Project component on his or her behalf, which may include setting and modifying user access, privacy settings, license terms, and editing and depositing Content.   
 
-    2. Proxy.  A Proxy is a person to whom the Administrator has granted the authority to manage a Project or Project component on his or her behalf, which may include setting and modifying user access, privacy settings, license terms, and editing and depositing Content.   
+        3. Contributing User.  A Contributing User may access, deposit, and edit Content to a Project or a Project component.
 
-    3. Contributing User.  A Contributing User may access, deposit, and edit Content to a Project or a Project component.
+        4. Active User.  An Active User may have select interactive use of the Websites and Services, subject to restrictions imposed by the Administrator.  
 
-    4. Active User.  An Active User may have select interactive use of the Websites and Services, subject to restrictions imposed by the Administrator.  
+        5. Passive User.  A passive user, including journal editors/reviewers, other scientists, and members of the general public, may use the Websites and Services solely as an information resource without any ability to change or modify any Project content.
 
-    5. Passive User.  A passive user, including journal editors/reviewers, other scientists, and members of the general public, may use the Websites and Services solely as an information resource without any ability to change or modify any Project content.
+    d.  Public API: An application program interface available to the public to facilitate computer communication with the OSF.  Parts or all of the Websites and Services are accessible via various Public APIs, including but not limited to, GitHub, Twitter, Facebook, YouTube, Google Scholar and Google Groups, and LinkedIn.
 
-  d.  Public API: An application program interface available to the public to facilitate computer communication with the OSF.  Parts or all of the Websites and Services are accessible via various Public APIs, including but not limited to, GitHub, Twitter, Facebook, YouTube, Google Scholar and Google Groups, and LinkedIn.
+    e. Privacy Settings.  Privacy Settings define whether Project Content may be publicly displayed, displayed with restricted access to a limited group, or private.  
 
-  e. Privacy Settings.  Privacy Settings define whether Project Content may be publicly displayed, displayed with restricted access to a limited group, or private.  
-
-  f. Trusted Party:  A Trusted Party is an individual or organization to which the Administrator has given the right to view, edit, and/or deposit specific data within a Project or Project component.    
+    f. Trusted Party:  A Trusted Party is an individual or organization to which the Administrator has given the right to view, edit, and/or deposit specific data within a Project or Project component.    
 
 5. **YOUR RIGHT TO USE OSF**
 
